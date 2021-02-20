@@ -1,4 +1,4 @@
-Copyright (C) 2019-2020 - The LineageOS Project
+Copyright (C) 2019-2021 - The LineageOS Project
 
 The Xiaomi Redmi Note 7 Pro (codenamed _"violet"_) is a mid range smartphone from Xiaomi.
 
